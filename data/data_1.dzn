@@ -1,0 +1,23 @@
+/*
+DATA SET 1: 
+3 esami, 10 studenti, 1 aula, 3 giorni. 
+*/
+ESAMI = {AI,IC,CN};
+S = 10;
+A = 1;
+G = 3;
+
+durata = [4,3,4];
+capienza = [13];
+
+prenotazioni = [|1,0,0
+                |1,1,1
+                |1,1,1
+                |1,1,1
+                |1,0,1
+                |1,0,1
+                |1,0,1
+                |1,1,0
+                |1,0,1
+                |1,1,0|];
+
