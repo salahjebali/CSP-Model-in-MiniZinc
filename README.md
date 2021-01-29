@@ -1,7 +1,6 @@
 # CSP-Model-in-MiniZinc
 This project is a CSP model made in MiniZinc for the Artificial Intelligence exam from University of Florence, department of Computer Engineering. 
 
-
 ## Introduction
 
 The program was written in MiniZinc language and builds a model for the generation
@@ -21,10 +20,8 @@ containing the code and input data from https://github.com/salahjebali/CSP-Model
 
 ## How to run it
 
-
-1. Open MiniZinc IDE and open the exercise template_jebali.mzn contained in the folder 
-   artificial_intelligence_exercise.
-2. Open any data _ *.dzn file contained in the data folder.
+1. Open MiniZinc IDE and open the file esercizio_jebali.mzn;
+2. Open any data _ *.dzn file contained in the data folder;
 3. Set Gecode 6.1.1 [built-in] as solver and press RUN.
 
 ### For more details you can find a full detailed report (italian only)
